@@ -1,6 +1,7 @@
 This is a simple Todo task tracking [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), TailWindCSS, Shadcn, Next,js
 
 ## Getting Started
+![ToDoApp](https://github.com/nidumolu/nextjs_tailwindcss-shadcn/assets/13748087/f6cb91ab-f88b-48ac-8405-2e17e52beeb4)
 
 First, run the development server:
 
